@@ -108,7 +108,7 @@ export const weddingData = {
 	/** Контакты для связи (имя и номер) */
 	contactList: [
 		{ name: "Selim", phone: "+99362320000" },
-		{ name: "Merdan", phone: "+99363920000" },
+		{ name: "Merdan", phone: "+99363920000" }
 	],
 	photos: [
 		"https://picsum.photos/400/500?random=11",
